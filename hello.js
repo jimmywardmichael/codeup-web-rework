@@ -13,3 +13,6 @@ console.log(5 % 2);
 console.log(5 % 2);
 console.log(5 % 2);
 
+var name = "codeup"
+console.log(name)
+
